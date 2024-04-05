@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\menyu.task\bin\Debug\net8.0\menyu.task.exe
+C:\Users\Dell\source\repos\menyu.task\bin\Debug\net8.0\menyu.task.deps.json
+C:\Users\Dell\source\repos\menyu.task\bin\Debug\net8.0\menyu.task.runtimeconfig.json
+C:\Users\Dell\source\repos\menyu.task\bin\Debug\net8.0\menyu.task.dll
+C:\Users\Dell\source\repos\menyu.task\bin\Debug\net8.0\menyu.task.pdb
+C:\Users\Dell\source\repos\menyu.task\obj\Debug\net8.0\menyu.task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\menyu.task\obj\Debug\net8.0\menyu.task.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\menyu.task\obj\Debug\net8.0\menyu.task.AssemblyInfo.cs
+C:\Users\Dell\source\repos\menyu.task\obj\Debug\net8.0\menyu.task.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\menyu.task\obj\Debug\net8.0\menyu.task.dll
+C:\Users\Dell\source\repos\menyu.task\obj\Debug\net8.0\refint\menyu.task.dll
+C:\Users\Dell\source\repos\menyu.task\obj\Debug\net8.0\menyu.task.pdb
+C:\Users\Dell\source\repos\menyu.task\obj\Debug\net8.0\menyu.task.genruntimeconfig.cache
+C:\Users\Dell\source\repos\menyu.task\obj\Debug\net8.0\ref\menyu.task.dll
